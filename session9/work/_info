@@ -1,0 +1,91 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/questasim64_2021.1/examples
+T_opt
+!s110 1786298454
+V<I147n^]SN4dE;26H]g>K0
+04 23 4 work rising_edge_detector_tb fast 0
+=1-c85acfad4d21-6a78c055-346-5f0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vrising_edge_detector
+Z3 !s110 1786298687
+!i10b 1
+!s100 V_VPGJbj^injI9e[38KBR2
+I]KC>K<h=NXDa]TNVP`F7l3
+Z4 dD:/NTI/session9
+w1786298642
+8D:/NTI/session9/rising_edge_detector.v
+FD:/NTI/session9/rising_edge_detector.v
+!i122 15
+L0 1 52
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1786298687.000000
+!s107 D:/NTI/session9/rising_edge_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session9/rising_edge_detector.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vrising_edge_detector_mealy
+R3
+!i10b 1
+!s100 VcU[9Ohl3kb`VAVVPBcU^3
+Ij2h0o<:CLBB;EZc0LA@M40
+R4
+w1786298428
+8D:/NTI/session9/rising_edge_detector_mealy.v
+FD:/NTI/session9/rising_edge_detector_mealy.v
+!i122 16
+L0 1 54
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/NTI/session9/rising_edge_detector_mealy.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session9/rising_edge_detector_mealy.v|
+!i113 0
+R8
+R2
+vrising_edge_detector_tb
+R3
+!i10b 1
+!s100 i54^jT:5[>77Q9e31Kg_n2
+In2AgOf@UVRn5QTToABT5B0
+R4
+w1786298407
+8D:/NTI/session9/rising_edge_detector_tb.v
+FD:/NTI/session9/rising_edge_detector_tb.v
+!i122 17
+L0 1 28
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/NTI/session9/rising_edge_detector_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session9/rising_edge_detector_tb.v|
+!i113 0
+R8
+R2

@@ -1,0 +1,68 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questasim64_2021.1/examples
+T_opt
+!s110 1785866391
+VDchO@OSzz2lRm:XoDNKBZ1
+04 15 4 work controller_test fast 0
+=1-c85acfad4d21-6a722897-178-197c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vcontroller
+Z2 !s110 1785866372
+!i10b 1
+!s100 6;>??84d`9PJIJYzHmEEh3
+I_eOzRc=dGZXHh3_6:[Ujj3
+Z3 dD:/NTI/session7
+w1785866353
+8D:/NTI/session7/controller.v
+FD:/NTI/session7/controller.v
+!i122 5
+L0 1 125
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1785866372.000000
+!s107 D:/NTI/session7/controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session7/controller.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vcontroller_test
+R2
+!i10b 1
+!s100 4VhYWzUzRRDj^U<e:QRQB3
+Ii@1YVf::62BeMQnY;_lhC3
+R3
+w1785865547
+8D:/NTI/session7/controller_test.v
+FD:/NTI/session7/controller_test.v
+!i122 6
+L0 1 145
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/NTI/session7/controller_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session7/controller_test.v|
+!i113 0
+R7
+R1

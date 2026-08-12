@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questasim64_2021.1/examples
+vFSM
+!s110 1786033168
+!i10b 1
+!s100 GE<CE6h3jS8?Q4jL`O1XD3
+IGE=VgU7WSf37A_V@Y1XWY0
+dD:/NTI/session8
+w1786033161
+8D:/NTI/session8/FSM.v
+FD:/NTI/session8/FSM.v
+!i122 0
+L0 1 73
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1786033168.000000
+!s107 D:/NTI/session8/FSM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session8/FSM.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
+n@f@s@m

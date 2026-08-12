@@ -1,0 +1,15 @@
+D:/NTI/session7/controller_test.v {1 {vlog -work work -vopt -stats=none D:/NTI/session7/controller_test.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller_test
+
+Top level modules:
+	controller_test
+
+} {} {}} D:/NTI/session7/controller.v {1 {vlog -work work -vopt -stats=none D:/NTI/session7/controller.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}

@@ -1,0 +1,22 @@
+D:/NTI/session9/rising_edge_detector.v {1 {vlog -work work -vopt -stats=none D:/NTI/session9/rising_edge_detector.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module rising_edge_detector
+
+Top level modules:
+	rising_edge_detector
+
+} {} {}} D:/NTI/session9/rising_edge_detector_tb.v {1 {vlog -work work -vopt -stats=none D:/NTI/session9/rising_edge_detector_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module rising_edge_detector_tb
+
+Top level modules:
+	rising_edge_detector_tb
+
+} {} {}} D:/NTI/session9/rising_edge_detector_mealy.v {1 {vlog -work work -vopt -stats=none D:/NTI/session9/rising_edge_detector_mealy.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module rising_edge_detector_mealy
+
+Top level modules:
+	rising_edge_detector_mealy
+
+} {} {}}
