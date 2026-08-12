@@ -1,0 +1,75 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questasim64_2021.1/examples
+T_opt
+!s110 1786547947
+VQ=b3E=?SaPmZG^A3F?Ih?3
+04 20 4 work stream_parity_gen_tb fast 0
+=1-c85acfad4d21-6a7c8eea-36a-4a08
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vstream_parity_gen
+Z2 !s110 1786547940
+!i10b 1
+!s100 LQjKUk[SZe7?hnFgE28@92
+I6W0Ddn@NEzf18]Oe2nmCE0
+Z3 dD:/NTI/session10
+w1786547875
+8D:/NTI/session10/stream_parity_gen.v
+FD:/NTI/session10/stream_parity_gen.v
+!i122 26
+L0 1 37
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1786547940.000000
+!s107 D:/NTI/session10/stream_parity_gen.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session10/stream_parity_gen.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vstream_parity_gen_tb
+R2
+!i10b 1
+!s100 IPSgBf?=DZSHgmX<10[:^2
+IbLXL=PkR]HE]aPP2N^nc@3
+R3
+w1786547922
+8D:/NTI/session10/stream_parity_gen_tb.v
+FD:/NTI/session10/stream_parity_gen_tb.v
+!i122 27
+L0 1 55
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/NTI/session10/stream_parity_gen_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/NTI/session10/stream_parity_gen_tb.v|
+!i113 0
+R7
+R1
