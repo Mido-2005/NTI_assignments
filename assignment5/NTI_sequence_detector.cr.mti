@@ -1,0 +1,29 @@
+D:/NTI/assignment5/sequence_detector_overlapping.v {1 {vlog -work work -vopt -stats=none D:/NTI/assignment5/sequence_detector_overlapping.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sequence_detector_overlapping
+
+Top level modules:
+	sequence_detector_overlapping
+
+} {} {}} D:/NTI/assignment5/sequence_detector_overlapping_tb.v {1 {vlog -work work -vopt -stats=none D:/NTI/assignment5/sequence_detector_overlapping_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sequence_detector_overlapping_tb
+
+Top level modules:
+	sequence_detector_overlapping_tb
+
+} {} {}} D:/NTI/assignment5/sequence_detector_non_overlapping.v {1 {vlog -work work -vopt -stats=none D:/NTI/assignment5/sequence_detector_non_overlapping.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sequence_detector_non_overlapping
+
+Top level modules:
+	sequence_detector_non_overlapping
+
+} {} {}} D:/NTI/assignment5/sequence_detector_non_overlapping_tb.v {1 {vlog -work work -vopt -stats=none D:/NTI/assignment5/sequence_detector_non_overlapping_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sequence_detector_non_overlapping_tb
+
+Top level modules:
+	sequence_detector_non_overlapping_tb
+
+} {} {}}
