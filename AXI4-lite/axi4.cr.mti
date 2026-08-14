@@ -1,0 +1,36 @@
+{C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/write_controller.v} {1 {vlog -work work -stats=none {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/write_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module write_controller
+
+Top level modules:
+	write_controller
+
+} {} {}} {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/Read_Controller.v} {1 {vlog -work work -stats=none {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/Read_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Read_Controller
+
+Top level modules:
+	Read_Controller
+
+} {} {}} {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/top_module.v} {1 {vlog -work work -stats=none {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/top_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/reg_file.v} {1 {vlog -work work -stats=none {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/reg_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/top_module_tb.v} {1 {vlog -work work -stats=none {C:/Users/Noura Ahmed/Downloads/AXI4_lite/AXI4_lite/top_module_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module_tb
+
+Top level modules:
+	top_module_tb
+
+} {} {}}
